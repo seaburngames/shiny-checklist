@@ -1,14 +1,14 @@
 [
-{"PokemonIndexNumber":"001","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_001_00_shiny.png","Specials":"","PokemonName":"Bulbasaur"},
-{"PokemonIndexNumber":"002","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_002_00_shiny.png","Specials":"","PokemonName":"Ivysaur"},
-{"PokemonIndexNumber":"003","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_003_00_shiny.png","Specials":"","PokemonName":"Venusaur"},
-{"PokemonIndexNumber":"004","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_004_00_shiny.png","Specials":"","PokemonName":"Charmander"},
-{"PokemonIndexNumber":"005","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_005_00_shiny.png","Specials":"","PokemonName":"Charmeleon"},
-{"PokemonIndexNumber":"006","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_006_00_shiny.png","Specials":"","PokemonName":"Charizard"},
-{"PokemonIndexNumber":"007","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_007_00_shiny.png","Specials":"","PokemonName":"Squirtle"},
-{"PokemonIndexNumber":"008","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"","PokemonName":"Wartortle"},
-{"PokemonIndexNumber":"172","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_172_00_shiny.png","Specials":"","PokemonName":"Pichu"},
-{"PokemonIndexNumber":"025","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"","PokemonName":"Pikachu"},
-{"PokemonIndexNumber":"026","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"","PokemonName":"Raichu"}
+{"PokemonIndexNumber":"001","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_001_00_shiny.png","Specials":"0","PokemonName":"Bulbasaur"},
+{"PokemonIndexNumber":"002","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_002_00_shiny.png","Specials":"0","PokemonName":"Ivysaur"},
+{"PokemonIndexNumber":"003","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_003_00_shiny.png","Specials":"0","PokemonName":"Venusaur"},
+{"PokemonIndexNumber":"004","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_004_00_shiny.png","Specials":"0","PokemonName":"Charmander"},
+{"PokemonIndexNumber":"005","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_005_00_shiny.png","Specials":"0","PokemonName":"Charmeleon"},
+{"PokemonIndexNumber":"006","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_006_00_shiny.png","Specials":"0","PokemonName":"Charizard"},
+{"PokemonIndexNumber":"007","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_007_00_shiny.png","Specials":"0","PokemonName":"Squirtle"},
+{"PokemonIndexNumber":"008","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"0","PokemonName":"Wartortle"},
+{"PokemonIndexNumber":"172","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_172_00_shiny.png","Specials":"0","PokemonName":"Pichu"},
+{"PokemonIndexNumber":"025","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"0","PokemonName":"Pikachu"},
+{"PokemonIndexNumber":"026","PokemonTick":"0","hexValue":"#b0b8d8","PokemonImageUrl":"https://github.com/ZeChrales/PogoAssets/blob/master/pokemon_icons/pokemon_icon_008_00_shiny.png","Specials":"0","PokemonName":"Raichu"}
 ]
 	
